@@ -1,0 +1,37 @@
+This is the Recapp Application (RecApp)
+Bronze Version - MVP
+
+1802020649
+I decided to build this application because I wanted a quicker 
+way to COMPUTE the RESULTS for the weight loss COMPETITION.
+
+Every WEEK the PARTICIPANT weighs in for accountability
+The weights are recorded for the purpose of finding out if the
+participant has lost weight or not.
+
+In addition to computing the weight loss for the week, other 
+computations are:
+
+    weight loss percentage (week)
+    weight loss (overall)
+    weight loss percentage (overall)
+
+
+To add to the level of accountability, the participants are 
+placed on TEAMS.
+
+In addition to computing individual weight loss data, the teams
+weight loss data is also computed:
+
+    team weight loss (week)
+    team weight loss percentage (week)
+    team weight loss (overall)
+    team weight loss percentage (overall)
+
+Modules
+  Compute
+  Result
+  Competition
+  Week
+  Participant
+  Team
